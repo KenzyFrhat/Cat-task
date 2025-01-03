@@ -1,0 +1,10 @@
+a function that takes a list of strings, where each string is either an increment (`"++"`) or decrement (`"--"`) operation applied to a number.
+The function should return the final number after applying all the operations.
+
+**Example Input**:
+
+`["++", "++", "--", "++"]`
+
+**Example Output**:
+
+`2`
